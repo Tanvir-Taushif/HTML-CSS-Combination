@@ -9,9 +9,9 @@ h1{
     color: rgb(87, 4, 136);
 }
 .mainpic{
-    align-items: center;
+    margin-left: 12%;
     height: 350px;
-    width: 600px;
+    width: 1100px;
 }
 #imgtxt{
     background-color: darkorange;
